@@ -2,14 +2,3 @@ Words,
 A letter and a letter on a string
 Will hold forever humanity spell
 Words
-No no No
-Yes Yes Yes
-
-
-
-
-feature branch
-test
-
-
-feature 2 time
